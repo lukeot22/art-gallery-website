@@ -17,6 +17,10 @@ body {
     transition: 0.4s;
 }
 
+    .deskmap {
+        display: none;
+    }
+
 .main {
     font-family: 'Big Shoulders Display', "cursive";
     background-color: #151515;
